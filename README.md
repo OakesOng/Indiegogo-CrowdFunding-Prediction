@@ -1,6 +1,9 @@
 # Indiegogo-CrowdFunding-Prediction
 
-# This is a test
-```
-This is a test
-```
+SC1015 project.
+
+Progress:
+----------
+Done with data cleaning
+Done with EDA
+Starting with ML
