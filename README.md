@@ -23,9 +23,7 @@ This project is a mini project for SC1015, which focuses on the prediction of wh
   4. KNeighbour Classifier
   5. XGB Classifier
   6. Logistic Regressor
-  7. Support Vector Regressor
-  8. XGB Regressor
-  9. 
+  7. XGB Regressor
 
 
 
