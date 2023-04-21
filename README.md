@@ -1,5 +1,8 @@
 # Indiegogo-CrowdFunding-Prediction (SC1015 Project)
 
+About
+(------)
+
 Data Source: https://www.kaggle.com/datasets/quentinmcteer/indiegogo-crowdfunding-data
 
 Order of reading the notebooks:
