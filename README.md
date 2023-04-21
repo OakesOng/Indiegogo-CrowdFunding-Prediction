@@ -71,7 +71,7 @@ This project is a mini project for SC1015, which focuses on the prediction of wh
 - https://www.vebuso.com/2020/03/svm-hyperparameter-tuning-using-gridsearchcv/
 
 #Video 
-- (Video Presentation)[https://www.youtube.com/watch?v=tXAGxscohRc&ab_channel=Asher]
+- [Video Presentation](https://www.youtube.com/watch?v=tXAGxscohRc&ab_channel=Asher)
 
 
 
