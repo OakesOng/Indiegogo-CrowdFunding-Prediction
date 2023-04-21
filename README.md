@@ -11,8 +11,23 @@ This project is a mini project for SC1015, which focuses on the prediction of wh
 
 ## Contributors
 - Asher Lim: Data Sourcing, Data cleaning, Regression
-- Dennis Chen: Feature engineering, Classification 
+- Dennis Chen: Feature engineering, Data Visualization, Claassification
 - Ong Sheng Da: Text Processing, Regression, Classification, Analysis, Hyperparameter Tuning
+
+## Problem definition
+
+## Models used
+  1. Decision Tree Classifier
+  2. RandomForest Classifier
+  3. Support Vector Classifier
+  4. KNeighbour Classifier
+  5. XGB Classifier
+  6. Logistic Regressor
+  7. Support Vector Regressor
+  8. XGB Regressor
+  9. 
+
+
 
 
 
