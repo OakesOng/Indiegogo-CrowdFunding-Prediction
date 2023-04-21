@@ -8,4 +8,18 @@ This project is a mini project for SC1015, which focuses on the prediction of wh
   4. [Cleaning of sentiment score](https://github.com/OakesOng/Indiegogo-CrowdFunding-Prediction/blob/main/polarity_score_cleaning.ipynb)
   5. [Classification Modelling](https://github.com/OakesOng/Indiegogo-CrowdFunding-Prediction/blob/main/Machine%20Learning%20Part%20I%20-%20View.ipynb)
   6. [Regression Modelling](https://github.com/OakesOng/Indiegogo-CrowdFunding-Prediction/blob/main/Machine%20Learning%20Part%20II-View.ipynb)
+
+## Contributors
+
+
+
+
+
+
+
+
+
+
+
+
 Enjoy 😃
