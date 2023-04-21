@@ -10,6 +10,9 @@ This project is a mini project for SC1015, which focuses on the prediction of wh
   6. [Regression Modelling](https://github.com/OakesOng/Indiegogo-CrowdFunding-Prediction/blob/main/Machine%20Learning%20Part%20II-View.ipynb)
 
 ## Contributors
+- Asher Lim: Data Sourcing, Data cleaning, Regression
+- Dennis Chen: Feature engineering, Classification 
+- Ong Sheng Da: Text Processing, Regression, Classification, Analysis, Hyperparameter Tuning
 
 
 
